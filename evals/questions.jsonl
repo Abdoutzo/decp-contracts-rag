@@ -1,0 +1,20 @@
+{"id": "q01", "question": "Quel est le montant du marché de rénovation énergétique de l'école Jules Ferry ?", "expected_doc_ids": ["2024-001"], "type": "factual"}
+{"id": "q02", "question": "Qui est le titulaire du marché de fourniture de repas pour les collèges du lot 1 ?", "expected_doc_ids": ["2024-002"], "type": "factual"}
+{"id": "q03", "question": "Quels marchés ont été attribués à BatiRhône SAS ?", "expected_doc_ids": ["2024-001", "2024-006", "2024-009"], "type": "multi"}
+{"id": "q04", "question": "Quelle est la durée du marché de maintenance des ascenseurs ?", "expected_doc_ids": ["2024-004"], "type": "factual"}
+{"id": "q05", "question": "Quels marchés concernent la fourniture de repas scolaires ?", "expected_doc_ids": ["2024-002", "2024-010"], "type": "multi"}
+{"id": "q06", "question": "Quel est le montant du marché de collecte des déchets ménagers du secteur Ouest ?", "expected_doc_ids": ["2024-012"], "type": "factual"}
+{"id": "q07", "question": "Quel marché a été notifié le 12 mars 2024 ?", "expected_doc_ids": ["2024-001"], "type": "factual"}
+{"id": "q08", "question": "Quels marchés ont une durée de 24 mois ou plus ?", "expected_doc_ids": ["2024-002", "2024-004", "2024-010", "2024-012"], "type": "multi"}
+{"id": "q09", "question": "Qui a remporté le marché d'étude de faisabilité du tramway T10 ?", "expected_doc_ids": ["2024-008"], "type": "factual"}
+{"id": "q10", "question": "Quel est le montant total des marchés attribués à Saveurs Collectives ?", "expected_doc_ids": ["2024-002", "2024-010"], "type": "aggregation"}
+{"id": "q11", "question": "Quel est le montant du marché de construction du stade municipal ?", "expected_doc_ids": [], "type": "unanswerable"}
+{"id": "q12", "question": "Quelle entreprise a obtenu le marché de réfection de la toiture de la médiathèque ?", "expected_doc_ids": ["2024-013"], "type": "factual"}
+{"id": "q13", "question": "Quels marchés ont été passés en appel d'offres ouvert ?", "expected_doc_ids": ["2024-002", "2024-012"], "type": "multi"}
+{"id": "q14", "question": "Quel est l'objet du marché 2024-011 ?", "expected_doc_ids": ["2024-011"], "type": "factual"}
+{"id": "q15", "question": "Quels marchés ont été attribués à des entreprises basées à Villeurbanne ?", "expected_doc_ids": ["2024-002", "2024-003", "2024-010"], "type": "multi"}
+{"id": "q16", "question": "Quel est le marché le plus cher du corpus ?", "expected_doc_ids": ["2024-012"], "type": "comparison"}
+{"id": "q17", "question": "Combien de marchés la Métropole de Lyon a-t-elle attribués ?", "expected_doc_ids": ["2024-004", "2024-008", "2024-012"], "type": "aggregation"}
+{"id": "q18", "question": "Quel est le code CPV du marché de rénovation de l'école Jules Ferry ?", "expected_doc_ids": ["2024-001"], "type": "factual"}
+{"id": "q19", "question": "Quel marché concerne le transport scolaire adapté ?", "expected_doc_ids": ["2024-014"], "type": "factual"}
+{"id": "q20", "question": "La mairie de Lyon a-t-elle attribué un marché à une entreprise parisienne ?", "expected_doc_ids": ["2024-005"], "type": "factual"}
