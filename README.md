@@ -2,6 +2,8 @@
 
 RAG over French public procurement contracts, with an eval harness that tells you whether it's any good.
 
+![Demo walkthrough](assets/demo.gif)
+
 ## Why this exists
 
 Every RAG demo answers questions. Almost none of them can tell you if they retrieved the right documents, whether the answer is actually faithful to the sources, or what each query costs. I built the eval harness first and the demo second, because that's the order the job really requires.
