@@ -2,7 +2,7 @@
 
 RAG over French public procurement contracts, with an eval harness that tells you whether it's any good.
 
-![Demo walkthrough](assets/demo.gif)
+![Demo walkthrough](assets/demo.svg)
 
 ## Why this exists
 
